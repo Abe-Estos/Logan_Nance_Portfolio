@@ -7,3 +7,5 @@
 To run it, downlload python, go to your terminal, navigate to thefolder and write 'python hw1lgn190000.py [location of file to be processed, in the example case "data/dat.csv"]'
 Python is good for text processing in that it has so many tools for it. However, it can be really slow compared to other programs.
 What I learned from this was python file management and pickling.
+## Homework2
+[This project](Homework2) runs a word guessing game from the 50 most popular nouns in a given document. This project works with various features of NLTK, including tokenization, lemmaization, and POS identification. Running instructions are similar to homework one.
