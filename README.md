@@ -9,3 +9,5 @@ Python is good for text processing in that it has so many tools for it. However,
 What I learned from this was python file management and pickling.
 ## Homework2
 [This project](Homework2) runs a word guessing game from the 50 most popular nouns in a given document. This project works with various features of NLTK, including tokenization, lemmaization, and POS identification. Running instructions are similar to homework one.
+## Homework3
+[This project](Homework3.pdf) demonstrates my knowledge of WordNet & SentiWordNet, which are libraries and databases of words, their synonyms, sentiments, etc.
