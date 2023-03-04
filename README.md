@@ -13,3 +13,5 @@ What I learned from this was python file management and pickling.
 [This project](Homework3.pdf) demonstrates my knowledge of WordNet & SentiWordNet, which are libraries and databases of words, their synonyms, sentiments, etc.
 ## SentenceParsing
 [This project](SentenceParsing.pdf) is my breakdown an analysis of different ways to parse sentences in NLPs. 
+## Homework4
+[This project](Homework4) demonstrates my use of bigrams in one specific use case (language detection) and an analysis of other uses as well.
