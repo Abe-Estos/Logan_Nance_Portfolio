@@ -15,3 +15,5 @@ What I learned from this was python file management and pickling.
 [This project](SentenceParsing.pdf) is my breakdown an analysis of different ways to parse sentences in NLPs. 
 ## Homework4
 [This project](Homework4) demonstrates my use of bigrams in one specific use case (language detection) and an analysis of other uses as well.
+## Webcrawler
+[This project](Webcrawler) is a webcrawler I made that gets sixteen links from a site, goes to those links, turns the websites it is on into text, (including th origin) an priints out word frequecies of those words.
