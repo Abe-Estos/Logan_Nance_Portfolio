@@ -19,5 +19,5 @@ What I learned from this was python file management and pickling.
 [This project](Webcrawler) is a webcrawler I made that gets sixteen links from a site, goes to those links, turns the websites it is on into text, (including the origin) an prints out word frequecies of those words.
 ## Wuntoothry
 [This project](Webcrawler) is a simple chatbot i made for m chatbot project. It's not that impressive and somewhat incommplete due to poor mental health.
-## Webcrawler
+## DLDiseaseClassifier
 [This project](DLDiseaseClassifier) was meant to be a demonstration of variouws deep learning techniques but unfortunately it's incomplete due to poor mental health.
